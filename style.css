@@ -75,9 +75,9 @@ body {
     background-color: darkblue;
 }
 
-/* backgroynd images */
+/* background images */
 .card-sporty {
-    background: #fff url("../images/images/sporty.png") no-repeat center right;
+    background: url("../images/images/sporty.png") no-repeat center right;
     background-size: 200px;
 }
 
